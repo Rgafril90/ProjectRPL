@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjectRPL">
         <activity
+            android:name=".Activity_Bacaan_Ayat_Kursi"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_Bacaa_Sholat"
+            android:exported="false" />
+        <activity
             android:name=".Activity_Niat_Sholat"
             android:exported="false" />
         <activity
