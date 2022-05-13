@@ -28,7 +28,7 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_margin="10dp"
-                    android:src="@drawable/ic_launcher_background" />
+                    android:src="@drawable/niatSholat" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -52,7 +52,7 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_margin="10dp"
-                    android:src="@drawable/ic_launcher_background" />
+                    android:src="@drawable/bacaan_sholat" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -76,7 +76,8 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_margin="10dp"
-                    android:src="@drawable/ic_launcher_background" />
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/ayat_kursi" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -84,6 +85,7 @@
                     android:gravity="center"
                     android:text="Ayat Kursi"
                     android:textColor="@android:color/black"
+                    android:background=""
                     android:textSize="16sp" />
 
             </LinearLayout>
