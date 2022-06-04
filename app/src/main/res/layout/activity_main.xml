@@ -17,7 +17,7 @@
             android:orientation="vertical">
 
             <LinearLayout
-                android:id="@+id/linearNiatShalat"
+                android:id="@+id/NiatShalat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="20dp"
@@ -41,7 +41,7 @@
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/linearBacaanShalat"
+                android:id="@+id/BacaanShalat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="20dp"
@@ -65,7 +65,7 @@
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/linearAyatKursi"
+                android:id="@+id/AyatKursi"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="20dp"
